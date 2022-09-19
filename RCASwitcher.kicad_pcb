@@ -710,6 +710,15 @@
   )
 
   (gr_rect (start 31.5 65) (end 160 140.5) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 09216769-8f92-43b6-a299-9df244fe8f7f))
+  (gr_text "Print out and test spacing on paper!" (at 36.5 58) (layer "User.1") (tstamp 00f8f513-9e4f-43c1-a9ad-4eb4d4c9c073)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left))
+  )
+  (gr_text "Double check pin assignments in correct orientations\nTowards front is upside down" (at 33.5 83) (layer "User.1") (tstamp 1b29fe61-b675-4320-a5e1-d37dc021a1cd)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left))
+  )
+  (gr_text "Check whether upper or lower\npad is NC when off!\nDesigned with front = ON back = OFF\nOH NO! front = OFF back = ON\nMust redo this" (at 60 134) (layer "User.1") (tstamp e2b76c50-42f8-4b27-a955-ef2ce000917a)
+    (effects (font (size 1 1) (thickness 0.15)) (justify right))
+  )
 
   (segment (start 39.359188 102.45) (end 65.813604 102.45) (width 0.25) (layer "B.Cu") (net 1) (tstamp 0172f443-19ec-4528-81f9-97ed022d779c))
   (segment (start 67.55 104.186396) (end 67.55 134.2) (width 0.25) (layer "B.Cu") (net 1) (tstamp 2da2ced9-40b7-4825-90e8-1d638a0ce077))

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "PROJ_connector")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Conn_Switchcraft_PJRAN3X1U01X/eec.lib")(options "")(descr ""))
+  (lib (name "User")(type "KiCad")(uri "${KIPRJMOD}/Libraries/User.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,61 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Switchcraft PJRAN3X1U01X
+#
+DEF PJRAN3X1U01X J 0 0 Y Y 3 L N
+F0 "J" 0 200 50 H V L CNN 
+F1 "PJRAN3X1U01X" 0 300 50 H V L CNN 
+F2 "Switchcraft-PJRAN3X1U01X-*" 0 400 50 H I L CNN 
+F3 "https://upverter.com/datasheet/0969ab46382c7c35a48f3f53c7244e8d9493b4d5.pdf" 0 500 50 H I L CNN 
+F4 "Conn" 0 600 50 H I L CNN "category"
+F5 "3.20mm ID, 9.00mm OD (RCA) Phono (RCA) Jack Mono Connector Solder" 0 700 50 H I L CNN "digikey description"
+F6 "PJRAN3X1U01X-ND" 0 800 50 H I L CNN "digikey part number"
+F7 "yes" 0 900 50 H I L CNN "is connector"
+F8 "yes" 0 1000 50 H I L CNN "is female"
+F9 "yes" 0 1100 50 H I L CNN "lead free"
+F10 "c42389b5eac21d93" 0 1200 50 H I L CNN "library id"
+F11 "Switchcraft" 0 1300 50 H I L CNN "manufacturer"
+F12 "502-PJRAN3X1U01X" 0 1400 50 H I L CNN "mouser part number"
+F13 "CONN_RCA_40MM0_19MM5" 0 1500 50 H I L CNN "package"
+F14 "yes" 0 1600 50 H I L CNN "rohs"
+F15 "" 0 1700 50 H I L CNN "temperature range high"
+F16 "" 0 1800 50 H I L CNN "temperature range low"
+DRAW
+X 1_SLEEVE 1 0 -200 600 L 40 0 1 1 U 
+X 1_TIP 2 0 0 390 L 40 0 1 1 U 
+X 1_SHUNT 3 0 -100 150 L 40 0 1 1 U 
+P 2 1 1 0 -550 100 -550 -200 N
+P 2 1 1 0 -550 100 -600 100 N
+P 2 1 1 0 -600 100 -600 -200 N
+P 2 1 1 0 -460 0 -430 -50 N
+P 2 1 1 0 -430 -50 -390 0 N
+P 2 1 1 0 -180 -70 -150 -50 N
+P 2 1 1 0 -150 -50 -150 -100 N
+P 2 1 1 0 -120 -70 -150 -50 N
+X 2_SLEEVE 4 0 -200 590 L 40 0 2 1 U 
+X 2_TIP 5 0 0 390 L 40 0 2 1 U 
+X 2_SHUNT 6 0 -100 150 L 40 0 2 1 U 
+P 2 2 1 0 -550 100 -550 -200 N
+P 2 2 1 0 -550 100 -600 100 N
+P 2 2 1 0 -600 100 -600 -200 N
+P 2 2 1 0 -460 0 -430 -50 N
+P 2 2 1 0 -430 -50 -390 0 N
+P 2 2 1 0 -180 -70 -150 -50 N
+P 2 2 1 0 -150 -50 -150 -100 N
+P 2 2 1 0 -120 -70 -150 -50 N
+X 3_SLEEVE 7 0 -200 600 L 40 0 3 1 U 
+X 3_TIP 8 0 0 390 L 40 0 3 1 U 
+X 3_SHUNT 9 0 -100 150 L 40 0 3 1 U 
+P 2 3 1 0 -550 100 -550 -200 N
+P 2 3 1 0 -550 100 -600 100 N
+P 2 3 1 0 -600 100 -600 -200 N
+P 2 3 1 0 -460 0 -430 -50 N
+P 2 3 1 0 -430 -50 -390 0 N
+P 2 3 1 0 -120 -70 -150 -50 N
+P 2 3 1 0 -150 -50 -150 -100 N
+P 2 3 1 0 -180 -70 -150 -50 N
+ENDDRAW
+ENDDEF
+#
+# End Library

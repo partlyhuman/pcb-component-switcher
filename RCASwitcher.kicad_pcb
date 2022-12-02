@@ -656,7 +656,7 @@
 
   (footprint "MountingHole:MountingHole_3mm" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp f63ef64d-a808-44a4-ba57-abf42962557e)
-    (at 164 136)
+    (at 163.5 136)
     (descr "Mounting Hole 3mm, no annular")
     (tags "mounting hole 3mm no annular")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -679,7 +679,7 @@
 
   (footprint "MountingHole:MountingHole_3mm" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp f90779ca-d580-4801-9504-79d2d8a4ad9b)
-    (at 164 70)
+    (at 163.5 70)
     (descr "Mounting Hole 3mm, no annular")
     (tags "mounting hole 3mm no annular")
     (attr exclude_from_pos_files exclude_from_bom)
